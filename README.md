@@ -1,3 +1,6 @@
+
+Student | Beginner coder |
+
 try to push command in github.
 i want to share some important code
 
