@@ -33,6 +33,6 @@ int main()
     int target_element = 99;
 
     int result = binarySearch(arr, size, target_element);
-    printf("The index number of %d is :: %d\n", target_element, result);
+    printf("The target element %d is found at index %d\n", target_element, result);
     return 0;
 }
