@@ -1,4 +1,4 @@
-find the smallest among three intergers using 3rd variable 'small'
+// find the smallest among three intergers using 3rd variable 'small'
 
 #include<stdio.h>
 int main(){
