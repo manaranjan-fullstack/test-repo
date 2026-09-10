@@ -1,4 +1,4 @@
-#!/bin/sh
+# fibonacci series
 
 echo "Enter a number to find fibonacci series upto n: "
 read n
