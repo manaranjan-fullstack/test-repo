@@ -6,4 +6,4 @@ read -p "WRITE A SECOND VALID STRING:: " s2
 result="$s1 $s2"
 echo "Concatenated string is: $result"
 len=$(expr length "$result")
-echo "Total number of characters in the concatenated string is:: $len"
+echo "The total number of characters in the concatenated string is:: $len"
